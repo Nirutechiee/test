@@ -1,2 +1,5 @@
-# test
-New project yet to start. New to GitHub
+# Test
+
+hello how are you!
+
+This is the begning to GitHub.
